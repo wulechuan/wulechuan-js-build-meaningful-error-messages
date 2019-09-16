@@ -1,4 +1,4 @@
-# 吴乐川的彩色、语义明确的出错信息辅助性构建工具
+# 吴乐川的彩色且语义明确的出错信息辅助性构建工具
 
 ## Multilingual Editions of this Article
 
