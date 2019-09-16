@@ -1,26 +1,38 @@
 {
-    "name": "@wulechuan/meaningful-error-messages",
-    "author": "wulechuan <wulechuan@live.com>",
-    "license": "WTFPL",
-    "version": "0.1.1",
-    "description": "To build some colorful and meaningful error message strings easily a little bit.",
-    "main": "index.js",
-    "scripts": {
-        "test1": "node ./tests/test1.js",
-        "test2": "node ./tests/test2.js",
-        "test3": "node ./tests/test3.js",
-        "test4": "node ./tests/test4.js"
-    },
-    "keywords": [
-        "error",
-        "errors",
-        "message",
-        "messages",
-        "colorful",
-        "meaningful",
-        "categorized"
-    ],
-    "dependencies": {
-        "chalk": "^2.4.2"
-    }
+  "name": "@wulechuan/meaningful-error-messages",
+  "author": "wulechuan <wulechuan@live.com>",
+  "license": "WTFPL",
+  "version": "0.1.2",
+  "description": "To build some colorful and meaningful error message strings easily a little bit.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test1": "node ./tests/test1.js",
+    "test2": "node ./tests/test2.js",
+    "test3": "node ./tests/test3.js",
+    "test4": "node ./tests/test4.js"
+  },
+  "keywords": [
+    "error",
+    "errors",
+    "message",
+    "messages",
+    "colorful",
+    "meaningful",
+    "categorized"
+  ],
+  "dependencies": {
+    "chalk": "^2.4.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wulechuan/wulechuan-js-build-meaningful-error-messages.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wulechuan/wulechuan-js-build-meaningful-error-messages/issues"
+  },
+  "homepage": "https://github.com/wulechuan/wulechuan-js-build-meaningful-error-messages#readme"
 }
