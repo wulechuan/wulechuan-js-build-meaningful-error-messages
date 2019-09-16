@@ -2,9 +2,9 @@ const chalk = require('chalk')
 
 module.exports = function createErrorMessageBuildersFor(errorMessageCategory) {
     if (!errorMessageCategory || typeof errorMessageCategory !== 'string') {
-        errorMessageCategory = '@wulechuan/build-error-messages'
+        errorMessageCategory = '@wulechuan/meaningful-error-messages'
         throw new TypeError(buildErrorMessage([
-            `You must provide a string as the "${chalk.yellow('errorMessageCategory')}"`,
+            `You must provide a string as the so-called "${chalk.yellow('errorMessageCategory')}"`,
         ]))
     }
 
