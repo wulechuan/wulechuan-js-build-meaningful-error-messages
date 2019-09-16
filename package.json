@@ -1,0 +1,26 @@
+{
+    "name": "@wulechuan/meaningful-error-messages",
+    "author": "wulechuan <wulechuan@live.com>",
+    "license": "WTFPL",
+    "version": "0.1.0",
+    "description": "To build some colorful and meaningful error message strings easily a little bit.",
+    "main": "index.js",
+    "scripts": {
+        "test1": "node ./tests/test1.js",
+        "test2": "node ./tests/test2.js",
+        "test3": "node ./tests/test3.js",
+        "test4": "node ./tests/test4.js"
+    },
+    "keywords": [
+        "error",
+        "errors",
+        "message",
+        "messages",
+        "colorful",
+        "meaningful",
+        "categorized"
+    ],
+    "dependencies": {
+        "chalk": "^2.4.2"
+    }
+}
